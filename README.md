@@ -56,7 +56,7 @@ I am a highly motivated and experienced software engineer specializing in cross-
 ---
 
 🎓 **Education & Certifications**:
-- **Bachelor of Science in Software Engineering** from [University Of Sialkot]
+- **Bachelor of Science in Software Engineering** from University of Sialkot
 
 ---
 
