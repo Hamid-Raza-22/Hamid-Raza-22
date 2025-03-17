@@ -1,10 +1,30 @@
 ## Hi there 👋
 
 ### 🧑‍💻 Hamid Raza - Software Engineer 
+"Helping companies scale with world class technology"
 ---
 
 ### 🚀 About Me
 I am a highly motivated and experienced software engineer specializing in cross-platform development with Flutter. With 1.5 years of professional experience, I have successfully delivered scalable and user-centric solutions across various domains including healthcare, finance, logistics, hospitality, POS and community services. I am passionate about solving complex problems and contributing to transformative software solutions.
+
+---
+### 🛠️ Technologies & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-008000?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Shorebird](https://img.shields.io/badge/Shorebird-00B0FF?style=for-the-badge&logo=flutter&logoColor=white)
+![FVM](https://img.shields.io/badge/FVM-00C4CC?style=for-the-badge&logo=flutter&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF6600?style=for-the-badge&logo=flutter&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-00AA00?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -48,25 +68,6 @@ I am a highly motivated and experienced software engineer specializing in cross-
 - **[MedXperts](#)**: A healthcare management platform for patient engagement and telemedicine.
 - **[Crypto Coin App](#)**: Cryptocurrency portfolio tracking and trading tool.
 
----
-
-### 🛠️ Technologies & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-008000?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Shorebird](https://img.shields.io/badge/Shorebird-00B0FF?style=for-the-badge&logo=flutter&logoColor=white)
-![FVM](https://img.shields.io/badge/FVM-00C4CC?style=for-the-badge&logo=flutter&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6600?style=for-the-badge&logo=flutter&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-00AA00?style=for-the-badge&logo=flutter&logoColor=white)
 ---
 
 ### 🌱 Currently Learning
