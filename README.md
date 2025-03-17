@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-### 🧑‍💻 Hamid Raza - Software Engineer
+### 🧑‍💻 Hamid Raza - Software Engineer 
+---
+
+### 🚀 About Me
+I am a highly motivated and experienced software engineer specializing in cross-platform development with Flutter. With 1.5 years of professional experience, I have successfully delivered scalable and user-centric solutions across various domains including healthcare, finance, logistics, hospitality, POS and community services. I am passionate about solving complex problems and contributing to transformative software solutions.
 
 ---
 
 💼 **Professional Experience**:
 - **Sr. Flutter Developer** at MetaXperts Pvt LTD
-  - **Polio Vaccination Management System**: Streamlined vaccination tracking for health agencies.
-  - **Hawa Restaurant Management System**: Enhanced operational efficiency for hospitality clients.
   - **Courage Pvt LTD Order Booking & Booker Trackers App**: Optimized order processing and logistics workflows. ([Play Store]))
   - **Valor Trading App**: Built for secure financial transactions. ([Play Store])
   - **All Noor Town App**: Community management platform for residents. 
@@ -15,6 +17,8 @@
   - **MedXperts**: Healthcare management and patient engagement platform.
   - **Ocean View E-Scooter App**: E-scooter rental and fleet management solution.
   - **Crypto Coin App**: Cryptocurrency portfolio tracking and trading tool.
+  - **Polio Vaccination Management System**: Streamlined vaccination tracking for health agencies.
+  - **Hawa Restaurant Management System**: Enhanced operational efficiency for hospitality clients.
 
 ---
 
@@ -22,12 +26,12 @@
 - **Programming Languages**: Dart, JavaScript, SQL
 - **Frameworks & Technologies**: Flutter, NodeJS, Firebase
 - **Tools**: Play Store, App Store, ERP architecture
-- **Methodologies**: MVVM, Agile, End-to-End Project Management
+- **Methodologies**: MVVM,DDD (Domain Driven Design) Agile, End-to-End Project Management
 
 ---
 
 🎓 **Education & Certifications**:
-- **Bachelor of Science in Software Engineering ** from [Univerity Of Sialkot]
+- **Bachelor of Science in Software Engineering** from [University Of Sialkot]
 
 ---
 
@@ -63,11 +67,6 @@
 ![FVM](https://img.shields.io/badge/FVM-00C4CC?style=for-the-badge&logo=flutter&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6600?style=for-the-badge&logo=flutter&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-00AA00?style=for-the-badge&logo=flutter&logoColor=white)
----
-
-### 🚀 About Me
-I am a highly motivated and experienced software engineer specializing in cross-platform development with Flutter. With 1.5 years of professional experience, I have successfully delivered scalable and user-centric solutions across various domains including healthcare, finance, logistics, hospitality, and community services. I am passionate about solving complex problems and contributing to transformative software solutions.
-
 ---
 
 ### 🌱 Currently Learning
