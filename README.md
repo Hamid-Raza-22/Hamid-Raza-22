@@ -4,8 +4,8 @@
 ---
 ## Hi there 👋
 
-### 🧑‍💻 Hamid Raza - Software Engineer 
-"Helping companies scale with world class technology"
+### 🧑‍💻 Hamid Raza - Software Engineer (Flutter Developer)
+"Helping companies scales with world class technology"
 ---
 
 ### 🚀 About Me
