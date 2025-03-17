@@ -1,12 +1,11 @@
+
+![Profile Picture](https://github.com/Hamid-Raza-22/Hamid-Raza-22/blob/main/Hamid%20Raza%20Poster.jpg)
+
+---
 ## Hi there 👋
 
 ### 🧑‍💻 Hamid Raza - Software Engineer 
 "Helping companies scale with world class technology"
----
-### Profile Picture
-
-![Profile Picture](https://github.com/Hamid-Raza-22/Hamid-Raza-22/blob/main/Hamid%20Raza%20Poster.jpg)
-
 ---
 
 ### 🚀 About Me
