@@ -60,10 +60,12 @@ I am a highly motivated and experienced software engineer specializing in cross-
 
 ---
 
-📞 **Contact Me**:
-- **Phone**: +923131489445, +923486255887
-- **Email**: hamidraza.engr@gmail.com
-- **LinkedIn**: [Hamid Raza](https://www.linkedin.com/in/hamid-raza-a01780199)
+📞 **Contact Information**:  
+- **Phone**:  
+  - **[+923131489445](https://wa.me/923131489445)** (Message me on WhatsApp)  
+  - +923486255887  
+- **Email**: [hamidraza.engr@gmail.com](mailto:hamidraza.engr@gmail.com)  
+- **LinkedIn**: [Hamid Raza](https://www.linkedin.com/in/hamid-raza-a01780199)  
 - **GitHub**: [Hamid-Raza-22](https://github.com/Hamid-Raza-22)
 
 ---
