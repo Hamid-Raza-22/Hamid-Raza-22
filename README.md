@@ -51,7 +51,7 @@ I am a highly motivated and experienced software engineer specializing in cross-
 - **Programming Languages**: Dart, JavaScript, SQL
 - **Frameworks & Technologies**: Flutter, NodeJS, Firebase
 - **Tools**: Play Store, App Store, ERP architecture
-- **Methodologies**: MVVM,DDD (Domain Driven Design) Agile, End-to-End Project Management
+- **Methodologies**: MVVM, DDD (Domain Driven Design), Agile, End-to-End Project Management
 
 ---
 
