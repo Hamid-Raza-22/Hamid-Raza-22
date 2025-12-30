@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I am a highly motivated and experienced software engineer specializing in cross-platform development with Flutter. With 1.5 years of professional experience, I have successfully delivered scalable and user-centric solutions across various domains including healthcare, finance, logistics, hospitality, POS and community services. I am passionate about solving complex problems and contributing to transformative software solutions.
+I am a highly motivated and experienced software engineer specializing in cross-platform development with Flutter. With 3 years of professional experience, I have successfully delivered scalable and user-centric solutions across various domains including healthcare, finance, logistics, hospitality, POS and community services. I am passionate about solving complex problems and contributing to transformative software solutions.
 
 ---
 ### 🛠️ Technologies & Tools
